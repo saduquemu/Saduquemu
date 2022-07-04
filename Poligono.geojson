@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Poligono",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -179.256957553275953, 19.002012010390661 ], [ -26.543359252957348, 19.002012010390661 ], [ -26.543359252957348, -55.169473615642396 ], [ -179.256957553276038, -55.169473615642396 ], [ -179.256957553275953, 19.002012010390661 ] ] ] ] } }
+]
+}
